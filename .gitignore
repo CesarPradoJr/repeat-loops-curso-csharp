@@ -1,0 +1,13 @@
+﻿# Ignore arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Ignore binários e intermediários
+bin/
+obj/
+
+# Ignore arquivos de build
+*.dll
+*.exe
+*.pdb
